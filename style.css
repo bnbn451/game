@@ -33,7 +33,7 @@ border-radius: 25px;
 }
 
 .cell-hide {
-    color: red;
+    color: transparent;
     user-select: none;
 }
 .cell-shown {
